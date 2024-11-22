@@ -27,7 +27,6 @@ if (commandType === "create-license") {
 
   const licenseType = args[1] as LicenseType;
   cli.createLicense(licenseType);
-  console.log("License File Created successfully");
   process.exit(0);
 } else if (commandType === "list-licenses") {
   const licenses = cli.listLicenses();

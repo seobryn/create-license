@@ -1,6 +1,6 @@
 {
   "name": "@seobryn/create-license",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI Tool for creating license files",
   "main": "dist/main.js",
   "files": [
